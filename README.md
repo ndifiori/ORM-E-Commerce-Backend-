@@ -3,7 +3,10 @@ Bootcamp Challenge 13
 
 ## Your Task
 
-My task for this challenge was to build a back end for an e-commerce website. The technologies that I utilized were Node.js and Express.js API that I configured to use Sequelize. Then, I used Sequelize to interact with my ecommerce_db database.
+My task for this challenge was to build a back end for an e-commerce website. I utilized a MySQL database that the user can interact with by creating, reading, updating, and deleting various shopping catories and products within the database.  
+
+I hope you enjoy the application!
+
 
 
 ## Preview 
